@@ -2,6 +2,8 @@
 FdF (Fil de Fer) is a 42 project that involves creating a 3D wireframe representation of a landscape.  
 The goal is to parse a file containing height values and display the landscape using the graphical capabilities of your machine.
 
+![Fractal landscape](project_photos/elem-fract.png)
+
 ## Features
 Display a 3D wireframe representation of a landscape  
 Support for different colors based on height  
