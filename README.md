@@ -20,7 +20,7 @@ Before running FdF, make sure you have the following installed on your machine:
 
 ## Installation
 1. Clone the repository  
-`git clone https://github.com/yourusername/fdf.git`  
+`git clone https://github.com/MariamElSahhar/fdf.git`  
 2. Compile the project  
 `cd fdf; make`
 
