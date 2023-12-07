@@ -15,8 +15,8 @@ Basic user controls for navigation and zooming
 ## Prerequisites
 Before running FdF, make sure you have the following installed on your machine:
 
-- GCC(https://gcc.gnu.org/) or any other C compiler
-- MinilibX(https://github.com/42Paris/minilibx-linux) library
+- GCC (https://gcc.gnu.org/) or any other C compiler
+- MinilibX (https://github.com/42Paris/minilibx-linux) library
 
 ## Installation
 1. Clone the repository  
