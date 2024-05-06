@@ -1,3 +1,4 @@
+
 # FDF
 FdF (Fil de Fer) is a 42 project that involves creating a 3D wireframe representation of a landscape.  
 The goal is to parse a file containing height values and display the landscape using the graphical capabilities of your machine.
@@ -33,6 +34,15 @@ Run the program using
 - '+' and '-': Zoom in and out
 - 'A', 'S', 'Q', 'W', 'Z', 'X': Rotations
 - 'ESC': Exit the program
+
+## Demo
+<div align="center">
+  
+
+https://github.com/MariamElSahhar/Wireframe-Renderer/assets/43611294/a4b4604f-f372-4220-b648-6641ea9e66c6
+
+
+</div>
 
 ## Resources
 FdF Subject (https://github.com/fpetras/42-subjects/blob/master/fdf.en.pdf) - project subject and requirements
